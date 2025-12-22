@@ -9,7 +9,7 @@
 <p align="center">Writing code to build solutions and explore new technologies.</p>
 
 <p align="center">
-<strong>Java | Python | Javascript | Spring Boot | React | MySQL | AWS</strong>
+<strong>Java | Python | Rust | Spring Boot | React | Flutter | AI & ML</strong>
 </p>
 
 <p align="center">
@@ -25,13 +25,21 @@
 <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
 
+<br/>
+<br/>
+
 ---
 
-<a target="_blank" href="https://github.com/DDULDDUCK"><img width="120" align="right" src="https://github.com/DDULDDUCK.png"></a>
+<!-- 레이아웃 수정: 상단 여백 추가 및 정렬 간섭 방지 -->
+<div style="display: flow-root;">
+  <a target="_blank" href="https://github.com/DDULDDUCK">
+    <img width="120" align="right" src="https://github.com/DDULDDUCK.png" style="margin-left: 20px;">
+  </a>
 
 # CURRICULUM VITAE
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Languages](#languages)
+</div>
 
 ## DDULDDUCK
 
@@ -39,7 +47,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dduldduck@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DDULDDUCK-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/DDULDDUCK)
 
-Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about creating efficient and scalable applications. I enjoy learning new technologies and sharing knowledge with the community.
+Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about creating efficient and scalable applications. I have experience ranging from legacy systems to modern cloud architectures and AI solutions.
 
 ### Languages
 
@@ -55,26 +63,37 @@ Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about cre
 
 ### My Skill
 
-#### Development & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman)](https://skillicons.dev)
+#### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,rust,js,ts)](https://skillicons.dev)
 
-#### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css)](https://skillicons.dev)
+#### 🌐 Frontend & Mobile
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,flutter,html,css)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/MyPlatform-Legacy_UI-orange?style=flat-square&logo=appveyor" /> <img src="https://img.shields.io/badge/Vanilla_JS-ES6+-yellow?style=flat-square&logo=javascript" />
 
-#### Framework & Library
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,nextjs)](https://skillicons.dev)
+#### 🛠 Backend & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Spring_Legacy-Framework-green?style=flat-square&logo=spring" /> <img src="https://img.shields.io/badge/Spring_Boot-Framework-green?style=flat-square&logo=springboot" />
 
-#### Database & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase)](https://skillicons.dev)
+#### 🗄 Database & Infrastructure & DevOps
+[![My Skills](https://skillicons.dev/icons?i=postgres,oracle,mysql,aws,docker,nginx)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/IBM_i_DB2-Database-blue?style=flat-square&logo=ibm" /> <img src="https://img.shields.io/badge/Oracle_Cloud-OCI-red?style=flat-square&logo=oracle" /> <img src="https://img.shields.io/badge/Pingora-Proxy-critical?style=flat-square&logo=rust" /> <img src="https://img.shields.io/badge/NAS-Storage-lightgrey?style=flat-square&logo=server" />
+
+#### 🤖 AI & Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat-square" /> <img src="https://img.shields.io/badge/CNN-Deep_Learning-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Machine_Learning-Algorithm-blueviolet?style=flat-square" />
 
 
 ### Working Experiences
 
-- <b>Kyocera Connector Products Korea:</b>
+- <b>Kyocera Connector Products Korea</b>
   <b>IT Department</b> - Sep 2022 - Present
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>I am currently working in the IT department, managing internal systems and supporting technical operations.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>I am currently working in the IT department, managing internal systems, database optimization, and supporting AI-driven manufacturing solutions.
   <br/>
-  <b>Skills & Tools:</b> Java, Flutter, Python, SQL, ERP, Digital Twin
+  <b>Skills & Tools:</b> Java, Spring Boot, Python, Docker, Nginx, DB2, Oracle, Flutter
   <br/>
 
 ---
