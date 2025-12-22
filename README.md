@@ -26,28 +26,33 @@
 </div>
 
 <br/>
-<br/>
 
 ---
 
-<!-- 레이아웃 수정: 상단 여백 추가 및 정렬 간섭 방지 -->
-<div style="display: flow-root;">
-  <a target="_blank" href="https://github.com/DDULDDUCK">
-    <img width="120" align="right" src="https://github.com/DDULDDUCK.png" style="margin-left: 20px;">
-  </a>
-
-# CURRICULUM VITAE
-
-[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Languages](#languages)
-</div>
-
-## DDULDDUCK
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?color=14171A&labelColor=212121&&logoColor=ffcc80)](https://www.linkedin.com/in/jaeseok-song-919731358)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dduldduck@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-DDULDDUCK-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/DDULDDUCK)
-
-Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about creating efficient and scalable applications. I have experience ranging from legacy systems to modern cloud architectures and AI solutions.
+<!-- 레이아웃 깨짐 방지를 위한 테이블 구조 -->
+<table>
+  <tr>
+    <td width="75%" valign="top" style="border: none;">
+      <h1>CURRICULUM VITAE</h1>
+      <p>
+        <a href="#">Profile</a> | <a href="#education">Education</a> | <a href="#my-skill">My Skill</a> | <a href="#working-experiences">Working Experiences</a> | <a href="#languages">Languages</a>
+      </p>
+      <h2>DDULDDUCK</h2>
+      <!-- 뱃지 영역 -->
+      <a href="https://www.linkedin.com/in/jaeseok-song-919731358"><img src="https://img.shields.io/badge/LinkedIn-black?color=14171A&labelColor=212121&&logoColor=ffcc80" alt="LinkedIn"></a>
+      <a href="mailto:dduldduck@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff" alt="Email"></a>
+      <a href="https://github.com/DDULDDUCK"><img src="https://img.shields.io/badge/GitHub-DDULDDUCK-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff" alt="GitHub"></a>
+      <br/><br/>
+      Hi There👋, My name is <b>JaeSeok Song (DDULDDUCK) </b>. I am a developer passionate about creating efficient and scalable applications. I have experience ranging from legacy systems to modern cloud architectures and AI solutions.
+    </td>
+    <td width="25%" valign="top" align="center" style="border: none;">
+      <br>
+      <a target="_blank" href="https://github.com/DDULDDUCK">
+        <img src="https://github.com/DDULDDUCK.png" width="100%" style="border-radius: 50%; max-width: 150px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Languages
 
@@ -91,9 +96,10 @@ Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about cre
 
 - <b>Kyocera Connector Products Korea</b>
   <b>IT Department</b> - Sep 2022 - Present
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>I am currently working in the IT department, managing internal systems, database optimization, and supporting AI-driven manufacturing solutions.
   <br/>
-  <b>Skills & Tools:</b> Java, Spring Boot, Python, Docker, Nginx, DB2, Oracle, Flutter
+  I am currently working in the IT department, managing internal systems, database optimization, and supporting AI-driven manufacturing solutions.
+  <br/>
+  <b>Skills & Tools:</b> Java, Spring Boot, Python, Docker, Nginx, DB2, Oracle, Flutter, ERP
   <br/>
 
 ---
