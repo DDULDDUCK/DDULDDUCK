@@ -1,23 +1,104 @@
-## 📫 연락 방법
+<div align="center">
 
-안녕하세요! 제 프로젝트에 관심을 가져주셔서 감사합니다.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=400&height=45&lines=Hi+👋,+I'm+DDULDDUCK;Welcome+to+my+Profile!)](https://github.com/DDULDDUCK)
+</div>
 
-연락을 원하시면 아래의 방법을 이용해 주세요:
+---
 
-- **이메일**: [dduldduck@gmail.com](mailto:dduldduck@gmail.com)
-- **GitHub 이슈**: 이 저장소의 이슈 트래커를 통해 질문이나 제안을 남겨주세요.
+<p align="center" style="font-size: 24px;">🚀 A Passionate Developer</p>
+<p align="center">Writing code to build solutions and explore new technologies.</p>
 
-기타 문의 사항이 있으면 언제든지 연락 주시길 바랍니다!
+<p align="center">
+<strong>Java | Python | Javascript | Spring Boot | React | MySQL | AWS</strong>
+</p>
 
-## 📫 Contact
+<p align="center">
+⚡ More info visit my <a href="https://github.com/DDULDDUCK">GitHub Profile</a>.
+</p>
 
-Hello! Thank you for taking an interest in my project.
+<div align="center">
 
-If you'd like to reach out, please use one of the following methods:
+![Profile View](https://komarev.com/ghpvc/?username=DDULDDUCK&style=flat&color=brightgreen)
+</div>
 
-- **Email**: [dduldduck@gmail.com](mailto:dduldduck@gmail.com)
-- **GitHub Issues**: Please leave your questions or suggestions via the issue tracker in this repository.
+<div align="center">
+<img align="center" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</div>
 
-If you have any other inquiries, feel free to get in touch at any time!
+---
+
+<a target="_blank" href="https://github.com/DDULDDUCK"><img width="120" align="right" src="https://github.com/DDULDDUCK.png"></a>
+
+# CURRICULUM VITAE
+
+[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Languages](#languages)
+
+## DDULDDUCK
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?color=14171A&labelColor=212121&&logoColor=ffcc80)](https://www.linkedin.com/in/jaeseok-song-919731358)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dduldduck@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DDULDDUCK-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/DDULDDUCK)
+
+Hi There👋, My name is <b>DDULDDUCK</b>. I am a developer passionate about creating efficient and scalable applications. I enjoy learning new technologies and sharing knowledge with the community.
+
+### Languages
+
+- <b>Korean:</b> Native
+- <b>English:</b> Conversational
+
+### Education
+
+- <b><a href="https://www.hanyang.ac.kr/web/eng" target="_blank" > Hanyang University:
+  </a> </b> - Manufacturing AI<br>
+  Graduate School of Industrial Convergence<br>
+  Master’s Degree (Expected Graduation: Feb 2026)
+
+### My Skill
+
+#### Development & Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman)](https://skillicons.dev)
+
+#### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css)](https://skillicons.dev)
+
+#### Framework & Library
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,nextjs)](https://skillicons.dev)
+
+#### Database & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase)](https://skillicons.dev)
 
 
+### Working Experiences
+
+- <b>Kyocera Connector Products Korea:</b>
+  <b>IT Department</b> - Sep 2022 - Present
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>I am currently working in the IT department, managing internal systems and supporting technical operations.
+  <br/>
+  <b>Skills & Tools:</b> Java, Flutter, Python, SQL, ERP, Digital Twin
+  <br/>
+
+---
+
+<h3 align="center">Stats from my public work</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DDULDDUCK&theme=tokyonight" alt="DDULDDUCK" />
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DDULDDUCK&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DDULDDUCK" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DDULDDUCK&show_icons=true&locale=en&theme=tokyonight" alt="DDULDDUCK" style="margin-bottom: 16px;"/>
+</div>
+
+<hr>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+
+[Back to top](#)
+</div>
