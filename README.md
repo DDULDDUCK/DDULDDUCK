@@ -105,9 +105,6 @@
 ---
 
 <h3 align="center">Stats from my public work</h3>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DDULDDUCK&theme=tokyonight" alt="DDULDDUCK" />
-</div>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DDULDDUCK&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DDULDDUCK" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
