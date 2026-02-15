@@ -12,10 +12,6 @@
 <strong>Java | Python | Rust | Spring Boot | React | Flutter | AI & ML</strong>
 </p>
 
-<p align="center">
-⚡ More info visit my <a href="https://github.com/DDULDDUCK">GitHub Profile</a>.
-</p>
-
 <div align="center">
 
 ![Profile View](https://komarev.com/ghpvc/?username=DDULDDUCK&style=flat&color=brightgreen)
