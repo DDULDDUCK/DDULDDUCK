@@ -102,21 +102,27 @@
 
 <h3 align="center">Stats from my public work</h3>
 <br>
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DDULDDUCK&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DDULDDUCK" height=195 style="margin-right: 10px; margin-bottom: 16px;"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DDULDDUCK&show_icons=true&locale=en&theme=tokyonight" alt="DDULDDUCK" style="margin-bottom: 16px;"/>
+  <!-- 1. 프로필 상세 스탯 (정상 작동 확인됨) -->
+  <img align="center" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Stats" height="195" style="margin-right: 10px; margin-bottom: 16px;"/>
+
+  <!-- 2. 언어 비율 카드 (파일 이름을 1-repos-per-language.svg 로 수정) -->
+  <img align="center" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages" height="195" style="margin-bottom: 16px;"/>
 </div>
 
 <hr>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DDULDDUCK/DDULDDUCK/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br><br>
 
 <div align="center">
-
-[Back to top](#)
+  <a href="#">[Back to top]</a>
 </div>
