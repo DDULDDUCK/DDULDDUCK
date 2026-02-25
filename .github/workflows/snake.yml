@@ -41,7 +41,7 @@ jobs:
       - name: Move stats to dist
         run: |
           mkdir -p dist/stats
-          cp -r profile-summary-cards-output/tokyonight/* dist/stats/
+          cp -r profile-summary-card-output/tokyonight/* dist/stats/
 
       # 4. 모든 결과물(뱀 + 스탯)을 output 브랜치로 한 번에 푸시
       - name: push all assets to the output branch
