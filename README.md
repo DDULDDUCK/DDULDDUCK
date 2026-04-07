@@ -91,7 +91,7 @@
 ### Working Experiences
 
 - <b>Kyocera Connector Products Korea</b>
-  <b>IT Department</b> - Sep 2022 - Present
+  <b>IT Department</b> - Sep 2022 - Apr 2026
   <br/>
   I am currently working in the IT department, managing internal systems, database optimization, and supporting AI-driven manufacturing solutions.
   <br/>
